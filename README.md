@@ -10,11 +10,14 @@ The scrips rely on the following packages and libraries:
 For **Python** (version 3.13.9):
 - `ipython`: version 8.30.0
 - `matplotlib`: version 3.10.0
-- `pandas`: 2.2.3
+- `pandas`: version 2.2.3
 - `numpy`: version 2.1.3
 
-For **R**:
-
+For **R** (version 4.3.2):
+- `tidyverse`: version 2.0.0
+- `mapDK`: version 0.3.0
+- `ggtext`: version 0.1.2
+- `patchwork`: version 1.3.0
 
 ## Repository contents
 - `code_fig_1_to_4.py` : a Python script to reproduce Fig. 1 to 4
@@ -44,7 +47,7 @@ If the required Python and R libraries are not already imported on your computer
 
 For Python, use the following command: `pip install name_of_the_package` in a Python terminal replacing `name_of_the_package` by the 4 Python libraries mentioned above.   
 
-For R, ???
+For R, the code to install the required packages is directly included in the R script `code_fig_5_spatial_analysis.R`.
 
 #### 2.2. Run the first Python script
 1. In your Python software, open the file `code_fig_1_to_4.py`.
