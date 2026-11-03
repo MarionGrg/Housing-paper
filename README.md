@@ -1,6 +1,7 @@
 # Code and data for: "The drivers of (un)sustainable housing: A population-scale Danish life cycle assessment"
 ## Overview
 This repository contains the code and sharable data allowing to reproduce the main figures (Fig. 1 to 6) of the paper: "The drivers of (un)sustainable housing: A population-scale Danish life cycle assessment".
+
 The entire datasets include confidential and individual personal data obtained from Statistics Denmark and cannot be shared publicly without data aggregation of minimum 5 individual dwellings. All graph data is shared here, along with associated code, as clustered or statistical results. Public data was collected from Energistyrelsen (https://emoweb.dk) and Datafordeler (https://datafordeler.dk/) and restricted data was obtained from Statistics Denmark (https://www.dst.dk/en).
 
 The repository includes 2 Python and one R scripts and all corresponding CSV and Excel files.
